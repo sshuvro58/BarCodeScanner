@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/media/paranoid/Work/droid-work/BarCodeScanner/app/build/intermediates/pre-dexed/debug/core-3.2.0_4ed1830944a3b17840c6860f0e9638e60f29ca75.jar" />
+    </item>
+    <item
+        jar="/media/paranoid/Work/droid-work/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/media/paranoid/Work/droid-work/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_7fe7030b36386b8af57df4a56867f4ac575ffda3.jar" />
+    </item>
+    <item
+        jar="/media/paranoid/Work/droid-work/BarCodeScanner/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c236cfec8fc080b9ad129d64e634c24deb2e8e95">
+        <dex dex="/media/paranoid/Work/droid-work/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.1.0_27273229fddf8d64837d3510b4de27b572c8f5cd.jar" />
+    </item>
+    <item
+        jar="/media/paranoid/Work/droid-work/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/media/paranoid/Work/droid-work/BarCodeScanner/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_c65bd39ad6ec8263f341550230254ffacd952136.jar" />
+    </item>
+    <item
+        jar="/media/paranoid/Work/droid-work/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/media/paranoid/Work/droid-work/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_7737d85aa2e7a7ef6680e200f5d3f98153e6b9aa.jar" />
+    </item>
+    <item
+        jar="/home/paranoid/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/media/paranoid/Work/droid-work/BarCodeScanner/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_f8962abf31b02cd38a4270addad8d4025d13403e.jar" />
+    </item>
+
+</items>
