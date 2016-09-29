@@ -28,8 +28,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 IntentIntegrator scanIntegrator = new IntentIntegrator(MainActivity.this);
-                scanIntegrator.setPrompt("Scan a Barcode");
+                scanIntegrator.setPrompt("Scan");
                 scanIntegrator.setBeepEnabled(true);
+
+                //enable the following line if you want QR code
+                //scanIntegrator.setDesiredBarcodeFormats(IntentIntegrator.QR_CODE_TYPES);
+
                 scanIntegrator.setCaptureActivity(CaptureActivityAnyOrientation.class);
                 scanIntegrator.setOrientationLocked(true);
                 scanIntegrator.setBarcodeImageEnabled(true);
